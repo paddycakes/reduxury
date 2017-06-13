@@ -2,6 +2,9 @@
   "name": "reduxury",
   "version": "0.0.1",
   "description": "Personal learning tool for Redux",
+  "scripts": {
+    "start": "babel-node tools/srcServer.js"
+  },
   "author": "Patrick Gallagher",
   "dependencies": {
     "babel-polyfill": "6.8.0",
